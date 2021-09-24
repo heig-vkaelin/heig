@@ -19,18 +19,18 @@
   * [ISD](https://github.com/vkaelin/isd)
  ### PRG2
   * [PRG2](https://github.com/vkaelin/prg2)
-  * [Labo 1 PRG2](https://github.com/vkaelin/labo1-prg2)
-  * [Labo 2 PRG2](https://github.com/vkaelin/labo2-prg2)
+  * [Labo 1 PRG2 - Liste doublement chaînée non circulaire](https://github.com/vkaelin/labo1-prg2)
+  * [Labo 2 PRG2 - Bateaux](https://github.com/vkaelin/labo2-prg2)
  ### ASD
-  * [Labo 1 ASD](https://github.com/vkaelin/ASD-L1-Complexite)
-  * [Labo 2 ASD](https://github.com/vkaelin/ASD-L2-Recursivite)
-  * [Labo 3 ASD](https://github.com/vkaelin/ASD-L3-Tris)
-  * [Labo 4 ASD](https://github.com/vkaelin/ASD-L4-Allocation-Dynamique)
-  * [Labo 5 ASD](https://github.com/vkaelin/ASD-L5-Buffer-circulaire-de-capacite-variable)
-  * [Labo 6 ASD](https://github.com/vkaelin/ASD-L6-Liste-Simplement-chainee)
-  * [Labo 7 ASD](https://github.com/vkaelin/ASD-L7-Expressions-arithmetiques)
-  * [Labo 8 ASD](https://github.com/vkaelin/ASD-L8-Arbre-AVL)
-  * [Labo 9 ASD](https://github.com/vkaelin/ASD-L9-Taquin)
+  * [Labo 1 ASD - Complexité](https://github.com/vkaelin/ASD-L1-Complexite)
+  * [Labo 2 ASD - Récursivité](https://github.com/vkaelin/ASD-L2-Recursivite)
+  * [Labo 3 ASD - Tris](https://github.com/vkaelin/ASD-L3-Tris)
+  * [Labo 4 ASD - Allocation dynamique](https://github.com/vkaelin/ASD-L4-Allocation-Dynamique)
+  * [Labo 5 ASD - Buffer circulaire de-capacité variable](https://github.com/vkaelin/ASD-L5-Buffer-circulaire-de-capacite-variable)
+  * [Labo 6 ASD - Liste simplement chaînée](https://github.com/vkaelin/ASD-L6-Liste-Simplement-chainee)
+  * [Labo 7 ASD - Expressions arithmétiques](https://github.com/vkaelin/ASD-L7-Expressions-arithmetiques)
+  * [Labo 8 ASD - Arbre AVL](https://github.com/vkaelin/ASD-L8-Arbre-AVL)
+  * [Labo 9 ASD - Taquin](https://github.com/vkaelin/ASD-L9-Taquin)
 </details>
 
 ## Hes d'été
