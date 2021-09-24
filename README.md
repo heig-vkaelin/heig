@@ -38,6 +38,8 @@
 <details>
   <summary>Ouvrir 👋</summary>
   
+  ### POO
+  * [POO](https://github.com/vkaelin/poo)
   ### PST
   * [PST](https://github.com/vkaelin/pst)
 </details>
