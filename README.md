@@ -33,6 +33,17 @@
   * [Labo 9 ASD](https://github.com/vkaelin/ASD-L9-Taquin)
 </details>
 
+## Hes d'été
+
+<details>
+  <summary>Ouvrir 👋</summary>
+  
+  ### PIN
+  * [Série 1](https://github.com/Lothindir/PIN-2021-Serie-1)
+  * [Série 2](https://github.com/vkaelin/PIN-2021-Serie-2)
+  * [Projet final](https://github.com/vkaelin/PIN-2021-Projet-FInal)
+</details>
+
 ## Semestre 3
 
 <details>
