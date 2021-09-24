@@ -26,7 +26,7 @@
   * [Labo 2 ASD - Récursivité](https://github.com/vkaelin/ASD-L2-Recursivite)
   * [Labo 3 ASD - Tris](https://github.com/vkaelin/ASD-L3-Tris)
   * [Labo 4 ASD - Allocation dynamique](https://github.com/vkaelin/ASD-L4-Allocation-Dynamique)
-  * [Labo 5 ASD - Buffer circulaire de-capacité variable](https://github.com/vkaelin/ASD-L5-Buffer-circulaire-de-capacite-variable)
+  * [Labo 5 ASD - Buffer circulaire de capacité variable](https://github.com/vkaelin/ASD-L5-Buffer-circulaire-de-capacite-variable)
   * [Labo 6 ASD - Liste simplement chaînée](https://github.com/vkaelin/ASD-L6-Liste-Simplement-chainee)
   * [Labo 7 ASD - Expressions arithmétiques](https://github.com/vkaelin/ASD-L7-Expressions-arithmetiques)
   * [Labo 8 ASD - Arbre AVL](https://github.com/vkaelin/ASD-L8-Arbre-AVL)
