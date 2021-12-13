@@ -2,6 +2,8 @@
 
 ## Semestre 1
 
+Si un repo n'est pas disponible, c'est qu'il est en privé et que je ne peux pas le changer (fork de repo de prof).
+
 <details>
   <summary>Ouvrir 👋</summary>
   
